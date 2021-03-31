@@ -35,7 +35,7 @@
         <spring-boot.version>2.3.1.RELEASE</spring-boot.version>
         <fastjson.version>1.2.51</fastjson.version>
         <hutool.version>5.2.0</hutool.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <aws.sdk.version>1.11.732</aws.sdk.version>
