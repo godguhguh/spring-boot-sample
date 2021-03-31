@@ -15,7 +15,7 @@
 
     <properties>
         <aliyun-sdk-oss.version>3.8.1</aliyun-sdk-oss.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
